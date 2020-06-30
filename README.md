@@ -1,3 +1,6 @@
+Code for "SoftSort: A Continuous Relaxation for the argsort Operator", ICML 2020.
+---
+
 This repository is a fork of ```ermongroup/neuralsort``` implementing the SoftSort operator and reproducing all the results reported in the paper "SoftSort: A Continuous Relaxation for the argsort Operator".
 
 ## Requirements
