@@ -1,6 +1,6 @@
 matplotlib==3.0.3
 numpy==1.15.4
-pillow==6.1
+pillow==8.1.1
 scipy==1.1.0
 sklearn==0.0
 tensorflow==1.12.0
